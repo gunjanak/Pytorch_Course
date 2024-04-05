@@ -1,1 +1,5 @@
 Open AI gym problems solved
+
+Lunar_Rover_ddqn_solved  : File to train with given settings of hyperparameters
+lunar_working_2024-04-04-18-28.pth: working Pytorch model
+Landing_Lunar_Rover.ipynb:  This file uses the above model and lands the rover
