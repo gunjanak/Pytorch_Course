@@ -4,3 +4,9 @@ Lunar_Rover_ddqn_solved  : File to train with given settings of hyperparameters
 lunar_working_2024-04-04-18-28.pth: working Pytorch model
 Landing_Lunar_Rover.ipynb:  This file uses the above model and lands the rover
 Lunar_Rover_Landing.webm: The Landing Video
+
+
+
+Lunar_ddqn_train.ipynb  :Train
+good_model.pth  : Model (lands the rover successfully 6/10)
+Landing_Lunar_Rover_testing.ipynb  Testing the model 
