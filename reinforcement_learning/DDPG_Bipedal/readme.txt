@@ -1,0 +1,1 @@
+Deep Deterministic Policy Gradient (DDPG) is a model-free, off-policy actor-critic algorithm designed for continuous action spaces. It combines ideas from both Deep Q-Learning (DQN) and Deterministic Policy Gradient (DPG). DDPG is particularly suitable for environments where the actions are continuous and can take any value within a range, such as in robotics or control tasks.
