@@ -1,1 +1,1 @@
-PPO solving Bipedal Walker
+PPO solving Bipedal [GitHub Pages](https://pages.github.com/).
